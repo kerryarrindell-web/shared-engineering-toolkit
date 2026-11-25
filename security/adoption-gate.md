@@ -1,0 +1,2 @@
+# Adoption gate
+Review source and license at exact revision. Check advisories, transitive dependencies, install scripts and network permissions. Use least privilege; pin CI actions by full SHA; do not auto-merge dependency updates. Scan secrets without printing them. Run ZAP only on authorized isolated targets. Promptfoo uses synthetic financial data and approved model budgets. Scorecard is a signal, not a guarantee. Record rollback and test results before approval.
