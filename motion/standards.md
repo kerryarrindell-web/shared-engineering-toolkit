@@ -1,0 +1,2 @@
+# Motion standards
+Use opacity and transform first. Press 120ms, state 180ms, navigation 260ms, progress 500ms. Respect reduced motion, avoid blocking input and offscreen animation. Target 60fps on physical devices. Preserve static Yara LED and approved Rota lighting. Never misrepresent financial or booking status. CSS/WAAPI first for vanilla PWA; Motion for React where justified; Expo-compatible Reanimated only after spike. Reuse Lottie and Haptics.
