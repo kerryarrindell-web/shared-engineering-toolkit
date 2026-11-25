@@ -1,0 +1,6 @@
+# Candidate register — not installed
+Agent skills: https://github.com/obra/superpowers ; https://github.com/openai/skills ; https://github.com/anthropics/skills ; https://github.com/vercel-labs/agent-skills ; https://github.com/expo/skills ; https://github.com/supabase/agent-skills . Reference only: github/awesome-copilot and VoltAgent/awesome-agent-skills.
+Motion/design: motiondivision/motion, software-mansion/react-native-reanimated, software-mansion/react-native-gesture-handler, lottie-react-native/lottie-react-native, magicuidesign/magicui, shadcn-ui/ui, lucide-icons/lucide, recharts/recharts. Reuse existing libraries; selective components only.
+Security: gitleaks/gitleaks, semgrep/semgrep, google/osv-scanner, ossf/scorecard, dependabot/dependabot-core, rhysd/actionlint. Conditional: aquasecurity/trivy, zaproxy/zaproxy.
+Testing: microsoft/playwright, vitest-dev/vitest, mobile-dev-inc/Maestro, dubzzz/fast-check, dequelabs/axe-core, GoogleChrome/lighthouse-ci, promptfoo/promptfoo. Conditional: grafana/k6, storybookjs/storybook.
+Before adoption record pinned upstream revision, license, maintenance, vulnerability scan, compatibility, permissions, duplicate coverage and cost. No remote installers or production credentials.
