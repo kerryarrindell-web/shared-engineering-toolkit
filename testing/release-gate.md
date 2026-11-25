@@ -1,0 +1,2 @@
+# Test gate
+Record baseline SHA and test commands; preserve existing tests. Add focused regression, accessibility, visual and performance checks. Financial logic uses deterministic/property tests. Firebase uses emulator rules tests. Native changes require physical device checks. No real customer data or production credentials. Check backup/restore in isolated fixtures; never clear real browser storage. No merge/deploy without separate approval.
